@@ -69,7 +69,7 @@ HTTPS 정책을 느슨히 하려면(필요 시):
 
 > Note: iOS는 .xcworkspace 로 열어 빌드하세요. 번들 ID 변경 후 Xcode → Signing & Capabilities에서 Team 재지정 필요할 수 있음.
 
-⸻
+---
 
 ### Android Setup
 
