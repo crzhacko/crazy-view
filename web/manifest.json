@@ -1,6 +1,6 @@
 {
-    "name": "aplus_webview",
-    "short_name": "aplus_webview",
+    "name": "crazyview",
+    "short_name": "crazyview",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

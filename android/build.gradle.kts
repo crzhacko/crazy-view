@@ -1,3 +1,4 @@
+// ✅ 공통 저장소 설정
 allprojects {
     repositories {
         google()

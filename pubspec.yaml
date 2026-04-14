@@ -1,4 +1,4 @@
-name: crazy_view
+name: crazyview
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -38,7 +38,9 @@ dependencies:
   url_launcher: ^6.3.2
   shared_preferences: ^2.5.3
   rename: ^3.1.0
-  uni_links: ^0.5.1
+  # uni_links: ^0.5.1
+  app_links: ^3.4.2
+  flutter_local_notifications: ^18.0.0
 
 dev_dependencies:
   flutter_test:
